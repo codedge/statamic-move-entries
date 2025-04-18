@@ -11,8 +11,9 @@ Move entries from one collection to another in your Control Panel.
 - Move one or multiple entries from one collection to another: available in list view and detail view  
 - Confirmation question before moving
 - German and English localized
+- Config to set collections allowed to filter default is all
 
-:warning: No multi-site support at the moment. 
+:warning: Multi-site support only for Statamic Eloquent entries at the moment. 
 
 **Usage:**
 
